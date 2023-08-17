@@ -1,4 +1,4 @@
-package cl.siren.spring.gestor.modelos;
+package cl.siren.spring.gestor.model;
 
 import java.time.LocalDateTime;
 
