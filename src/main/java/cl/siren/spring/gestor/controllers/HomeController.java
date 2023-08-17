@@ -1,4 +1,4 @@
-package cl.siren.spring.gestor.controladores;
+package cl.siren.spring.gestor.controllers;
 
 import java.util.Optional;
 
